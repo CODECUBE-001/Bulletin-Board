@@ -2,8 +2,8 @@
 The bulletin board for daily updates and tasks regarding the day-to-day tech aspects of code cube
 
 ## Upcoming Projects:
-* LIVELY ZONE
-   app: react native
+* LIVELY ZONE <br />
+   app: react native <br />
    web: html
 
 * CODE CUBE OFFICE 
