@@ -6,24 +6,24 @@ The bulletin board for daily updates and tasks regarding the day-to-day tech asp
    app: react native <br />
    web: html
 
-* CODE CUBE OFFICE 
-   app: PyQt6
+* CODE CUBE OFFICE  <br />
+   app: PyQt6 <br />
    web: html/react
 
-* Xtra-Web:
+* Xtra-Web: <br />
     _Already built using wordpress_
 
-* X-Store:
-    web: html
+* X-Store: <br />
+    web: html <br />
     server: firebase
 
-* Pocket verse:
-    web: html
+* Pocket verse: <br />
+    web: html <br />
     server: firebase
 
-* TKML:
+* TKML: <br />
      lib: python/html/css
 
-* codecube.github.io
-    web: html
+* codecube.github.io <br />
+    web: html <br />
     server: firebase/django
